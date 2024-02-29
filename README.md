@@ -10,7 +10,7 @@ MageComp's Magneto 2 Amazon S3 Extension allows you to upload, sync, and bind al
 </a>
 
 # What About the Pricing?
-* Price= $149
+* Price= $129
   
 # Compatibility with Magento Versions
 Magento 2.2.X to 2.4.6 (CE, EE, ECE)
@@ -24,6 +24,28 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 # Compatible with Hyvä
 
 ![Screenshot Capture - 2024-02-08 - 14-36-23](https://github.com/patelanny/magento-2-easy-coupon-manager/assets/121279820/9d2278de-e0b8-4585-9159-bc77325456e7)
+
+# Features
+
+1. Upload all media files to the Amazon S3 bucket.
+
+2. Save storage space on physical storage, local hosting servers, and CDNs.
+
+3. Upload and synchronize downloaded products.
+
+4. To interact with the S3 cloud storage server, provide your Access Key and Secret Key.
+
+5. Select the Amazon region.
+
+6. Check bucket availability for file storage.
+
+7. Create URLs for downloading files that indicate validity.
+
+8. Setting for deleting or preserving media directory images.
+
+9. Boost the performance of your eCommerce website.
+
+10. Simple setup and rapid configuration.
 
 # Configuration
 
